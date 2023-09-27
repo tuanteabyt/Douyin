@@ -1,0 +1,16 @@
+{
+  "name": "douyin",
+  "version": "1.0.0",
+  "description": "Douyin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tuantea",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
